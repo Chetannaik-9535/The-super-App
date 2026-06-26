@@ -1,0 +1,6 @@
+{
+  "name": "Super App Dashboard",
+  "description": "A comprehensive, multi-feature dashboard consolidating user registration, weather updates, news, notes, timers, and personalized entertainment recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
